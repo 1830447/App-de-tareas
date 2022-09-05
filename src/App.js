@@ -1,5 +1,4 @@
 import './App.css';
-import freecode from './imagenes/freecode.svg';
 import ListaDeTareas from './conponentes/ListaDeTareas';
 function App() {
   return (
